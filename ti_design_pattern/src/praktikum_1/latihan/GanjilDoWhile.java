@@ -1,13 +1,13 @@
-package modul_1.latihan;
+package praktikum_1.latihan;
 
-public class GanjilWhile {
+public class GanjilDoWhile {
     public static void main(String[] args) {
         int i = 1;
-        while (i <= 20) {
+        do {
             if (i % 2 != 0) {
                 System.out.print(i + " ");
             }
             i++;
-        }
+        } while (i <= 20);
     }
 }

@@ -1,6 +1,4 @@
-package modul_1;
-
-import java.sql.SQLOutput;
+package praktikum_1;
 
 public class Variable {
     public static void main(String[] args){

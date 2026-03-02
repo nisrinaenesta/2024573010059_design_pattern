@@ -1,6 +1,4 @@
-package modul_1;
-
-import org.w3c.dom.ls.LSOutput;
+package praktikum_1;
 
 public class Factorial {
     public static void main(String [] args) {
