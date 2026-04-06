@@ -1,4 +1,4 @@
-package praktikum_2.bagian_5.abstrak;
+package praktikum_3.bagian_5.abstrak;
 
 class Anjing extends Hewan {
     @Override

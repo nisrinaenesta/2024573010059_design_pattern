@@ -1,4 +1,4 @@
-package praktikum_2.bagian_5.antarmuka;
+package praktikum_3.bagian_5.antarmuka;
 
 class Mobil implements Bergerak {
     @Override

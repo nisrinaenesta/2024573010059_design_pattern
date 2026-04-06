@@ -1,4 +1,4 @@
-package praktikum_2.bagian_5.latihan;
+package praktikum_3.bagian_5.latihan;
 
 abstract class HewanAir {
     String nama;

@@ -1,4 +1,4 @@
-package praktikum_2.bagian_5;
+package praktikum_3.bagian_5;
 
 interface Terbang {
     void terbang();

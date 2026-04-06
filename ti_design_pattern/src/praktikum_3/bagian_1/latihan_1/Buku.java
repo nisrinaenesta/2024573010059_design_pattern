@@ -1,4 +1,4 @@
-package praktikum_2.bagian_1.latihan_1;
+package praktikum_3.bagian_1.latihan_1;
 
 class Buku {
     String judul;

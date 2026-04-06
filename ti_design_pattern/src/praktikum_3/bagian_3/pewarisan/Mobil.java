@@ -1,4 +1,4 @@
-package praktikum_2.bagian_3.pewarisan;
+package praktikum_3.bagian_3.pewarisan;
 
 class Mobil extends Kendaraan {
     int jumlahPintu;

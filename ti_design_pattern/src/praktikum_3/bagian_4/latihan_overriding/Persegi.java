@@ -1,4 +1,4 @@
-package praktikum_2.bagian_4.latihan_overriding;
+package praktikum_3.bagian_4.latihan_overriding;
 
 class Persegi extends BangunDatar {
     double sisi;

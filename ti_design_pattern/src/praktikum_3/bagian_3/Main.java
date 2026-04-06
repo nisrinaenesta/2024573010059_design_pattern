@@ -1,4 +1,4 @@
-package praktikum_2.bagian_3;
+package praktikum_3.bagian_3;
 
 // Class untuk Composition
 class Mesin {

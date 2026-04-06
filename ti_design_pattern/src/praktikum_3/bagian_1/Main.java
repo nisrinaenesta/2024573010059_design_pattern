@@ -1,4 +1,4 @@
-package praktikum_2.bagian_1;
+package praktikum_3.bagian_1;
 
 public class Main {
     public static void main(String[] args) {

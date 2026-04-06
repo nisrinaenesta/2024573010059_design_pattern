@@ -1,4 +1,4 @@
-package praktikum_2.bagian_4.overriding;
+package praktikum_3.bagian_4.overriding;
 
 public class Main {
     public static void main(String[] args) {

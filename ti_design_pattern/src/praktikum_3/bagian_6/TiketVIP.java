@@ -1,4 +1,4 @@
-package praktikum_2.bagian_6;
+package praktikum_3.bagian_6;
 
 class TiketVIP extends Tiket {
     public TiketVIP() {
